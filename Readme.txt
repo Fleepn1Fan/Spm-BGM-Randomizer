@@ -1,4 +1,4 @@
-#### How to use:
+How to use:
 Patcher verion
 -Extract Spm ISO in a folder called spm
 -Put SpmBgmRandomizer in the same directory as Spm and Replace folder
@@ -13,5 +13,6 @@ Riivolution version
 -Put Riivvolution and SpmBgmRandomizer folder in your sd root
 
 Note that this mod is still in version 1.0, so it may crash.
+
 
 
