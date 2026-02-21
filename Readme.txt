@@ -1,1 +1,2 @@
-color splash sucks
+#####Lol
+
