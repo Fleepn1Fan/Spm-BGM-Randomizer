@@ -7,14 +7,20 @@ It works with Riivolution or Dolphin/Usb-loader Gx
 -Extract Spm ISO in a folder called spm  
 -Put SpmBgmRandomizer in the same directory as Spm and Replace folder  
 -Open SpmBgmRandomizer  
+-Backup recommended before randomizing  
+-select "Randomize BGM"  
 -Rebuild the ISO
 
 ### Riivolution version (Recommended)
 -Put SpmBgmRandomizer.exe in the same directory as SpmBgmRandomizer folder and Replace folder  
 -Open SpmBgmRandomizer.exe  
--Put Riivvolution and SpmBgmRandomizer folder in your sd root  
+-Backup recommended before randomizing  
+-Select "Randomize BGM"  
+-Put Riivolution and SpmBgmRandomizer folder in your sd root  
 
-### Note that this mod is still in version 1.0, so it may crash.
+
+### Don't forget to restore bgm from backup before randomizing again
+
 
 
 
