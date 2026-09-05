@@ -25,7 +25,6 @@ jobs:
     - name: Build with PyInstaller (Linux/Mac)
       if: runner.os != 'Windows'
       run: |
-        chmod +x wit/wit_*
         pyinstaller --noconfirm --onedir --windowed spmbgmrando.py
 
     - name: Build with PyInstaller (Windows)
