@@ -1,25 +1,20 @@
 # SpmBgmRandomizer  
 This is a mod for Super Paper Mario that shuffles every in-game background music.  
-It works with Riivolution or Dolphin/Usb-loader Gx  
-#### This mod currently only works on windows, but a Linux/MacOS version will *probably* be developed in the future 
+## Powered by Wiimms ISO Tools (WIT) and VGAudio
+## Installation & Requirements
+Install the newest release for your pc  
+All you need is an SPM ISO or WBFS and the program folder with all the subfolders placed correctly
 ## How to use:
-### Patcher version (More likely to crash) 
--Extract Spm ISO in a folder called spm  
--Put SpmBgmRandomizer in the same directory as Spm and Replace folder  
--Open SpmBgmRandomizer  
--Backup recommended before randomizing  
--select "Randomize BGM"  
--Rebuild the ISO
-
-### Riivolution version (Recommended)
--Put SpmBgmRandomizer.exe in the same directory as SpmBgmRandomizer folder and Replace folder  
--Open SpmBgmRandomizer.exe  
--Backup recommended before randomizing  
--Select "Randomize BGM"  
--Put Riivolution and SpmBgmRandomizer folder in your sd root  
+-Open SpmBgmRando.exe  
+-Go to 'File > Extract ISO/WBFS' and select your SPM file  
+-Go to 'File > Select sound folder' and select the extracted sound folder (R8P/files/sound)  
+-Check the tracks you want to randomize  
+-Create a backup 'Options > Create backup folder' before randomizing  
+-select "Randomize"  
+-Rebuild the ISO/WBFS 'File > Rebuild ISO/WBFS'  
 
 
-### Don't forget to restore bgm from backup before randomizing again
+### Don't forget to restore the files from backup 'Options > Load backup folder' before randomizing again
 
 
 
